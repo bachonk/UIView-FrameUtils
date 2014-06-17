@@ -3,7 +3,7 @@ UIView-FrameUtils
 
 UIView category that provides convenience methods for setting and getting frame properties.
 
-No more ugly code with `CGRectGetMidBlahBlahBlah`, just call these methods right from your `UIView`!
+I know you've always wanted setters for frame properties such as height and width, and now they're available right from any `UIView` or `UIView` subclass! There are also helpful setters for view centers, as well as getters to avoid having ugly `CGRectGetMaxYBlahBlahBlah` in your code
 
 ### Installation
 
