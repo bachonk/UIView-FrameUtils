@@ -15,4 +15,4 @@ Call any of the various getter and setter methods from any UIView instance or su
 
 ### License
 
-MIT license. Not that it really matters.
+Public Domain - there are no restrictions on the use of this code. It may be used without attribution in any commercial or non commercial application.
